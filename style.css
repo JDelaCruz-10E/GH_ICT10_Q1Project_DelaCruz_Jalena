@@ -1,0 +1,64 @@
+        body {
+            background-color: rgb(32, 33, 54);
+            font-family: "Playfair Display", serif;
+        }
+        
+        div#div1 {
+            text-align: center;
+            color: black;
+            background-color: rgb(232, 221, 99);
+            font-size: 33px;
+            padding: 15px;
+            border-radius: 18px;
+            margin-bottom: 25px;          
+            
+        }
+
+        div#div2 {
+            font-size: 27px;
+            background-color: rgb(231, 244, 255);
+            padding: 15px;
+            border-radius: 18px;
+            margin-bottom: 20px;           
+        }
+
+        div#div3 {
+            text-align: center;
+            font-size: 27px;
+            background-color: rgb(231, 244, 255);
+            padding: 15px;
+            border-radius: 18px;                   
+        }
+
+        div#btn {
+            text-align: center;
+        }
+
+        .navbar {
+            background-color: rgb(213, 174, 66);
+            font-weight: bold;
+        }
+
+        h1 {
+            text-align: center;
+        }
+        
+        img {
+            width: 50px;
+            border-radius: 50px;
+        }
+
+        div#contact {
+            text-align: center;
+            font-size: 27px;
+            background-color: rgb(231, 244, 255);
+            padding: 20px;
+            border-radius: 18px;
+            margin-bottom: 20px;
+            width: 550px;
+        }
+
+
+
+
+        
